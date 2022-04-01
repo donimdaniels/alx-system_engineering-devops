@@ -1,2 +1,2 @@
 #!/bin/bash
-u:g+x g=r
+u:g+x,o+r
