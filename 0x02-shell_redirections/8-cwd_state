@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ls -la /root@34ba10ba048/alx-system_engineering-devops/0x02-shell_redirections' > ls_cwd_content
+ls -la /root@34ba10ba048/alx-system_engineering-devops/0x02-shell_redirections | tee ls_cwd_content
