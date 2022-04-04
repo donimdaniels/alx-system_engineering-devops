@@ -1,2 +1,2 @@
 #!/bin/bash
-dir *.* /w /s
+ls -p | grep / | wc -l
